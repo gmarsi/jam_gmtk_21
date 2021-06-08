@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.octopusfries-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/glmarsi/Documents/GitHub/jam_gmtk_21/OctopusFries/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "OctopusFries-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
